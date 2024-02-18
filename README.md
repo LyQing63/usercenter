@@ -1,6 +1,6 @@
 # 用户中心
 复刻up主鱼皮的用户中心项目。
-## (https://github.com/LyQing63/usercenter-frontend)[前端]
+## (前端)[https://github.com/LyQing63/usercenter-frontend]
 使用**typescript**语言，**ant design pro v5**作为整体框架，**umi**作为脚手架
   - ant design pro: `version: v5`
   - umi:`version: v4.1.1`
